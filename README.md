@@ -4,7 +4,7 @@ README for go-imports
 go-imports lists all imports of Go source files.
 
 Usage:
-	go-imports <go-src>...
+	go-imports &lt;go-src&gt;...
 
 e.g. `go-import *.go`
 
