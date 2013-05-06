@@ -16,4 +16,4 @@ See the file LICENSE for more license information.
 
 Author
 ------
-Andreas Krennmair <https://github.com/voxelbrain>
+Andreas Krennmair <https://github.com/akrennmair>
