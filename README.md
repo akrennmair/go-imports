@@ -6,7 +6,7 @@ go-imports lists all imports of Go source files.
 Usage:
 	go-imports &lt;go-src&gt;...
 
-e.g. `go-import *.go`
+e.g. `go-imports *.go`
 
 License
 -------
